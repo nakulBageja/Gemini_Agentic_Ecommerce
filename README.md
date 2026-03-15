@@ -170,3 +170,6 @@ DealLens AI is developed by Nakul Bageja to explore practical applications of co
 - [ ] Architecture.md
 - [ ] Improved Examples in deals.json
 - [ ] Demo Video
+
+Eg:
+https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/multimodal-live-api/project-livewire/assets/architecture.png
