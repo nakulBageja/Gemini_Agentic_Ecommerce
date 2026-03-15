@@ -61,7 +61,7 @@ User Voice → Frontend (JS) → WebSocket → Backend (Python) → Gemini Live 
 ## 🚀 **Try DealLens AI Now**
 
 ### **🌐 Live Demo (Cloud Deployment)**
-**Production Backend**: `https://deallens-backend-553067044467.us-central1.run.app`
+**Production Backend**: `<>`
 
 **Quick Start**:
 1. Open the frontend locally: [Download & serve frontend files](app/frontend/)
