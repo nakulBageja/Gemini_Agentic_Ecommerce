@@ -196,8 +196,3 @@ DealLens AI is developed by Nakul Bageja to explore practical applications of co
 ---
 
 **Ready to revolutionize your shopping experience?** 🛍️ Start talking to DealLens AI today!
-
-# LEFT TO DO
-
-- [ ] PPT 
-- [ ] Demo Video
