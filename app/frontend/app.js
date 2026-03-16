@@ -244,14 +244,17 @@ class DealLensAudioClient {
 
     getBackendWebSocketURL() {
         const hostname = window.location.hostname;
-        const isLocalDevelopment = hostname === 'localhost' || hostname === '127.0.0.1' || hostname === '0.0.0.0';
+        const port = window.location.port;
 
-        if (isLocalDevelopment) {
-            console.log('🏠 Local development detected - using localhost backend');
+        // If served by backend on port 8000 → use local backend
+        const isBackendServedFrontend = (hostname === 'localhost' || hostname === '127.0.0.1') && port === '8000';
+
+        if (isBackendServedFrontend) {
+            console.log('🏠 Backend-served frontend detected - using local backend');
             return 'ws://localhost:8000/ws/audio';
         } else {
-            console.log('☁️ Production environment detected - using cloud backend');
-            return '';
+            console.log('☁️ Standalone frontend detected - using cloud backend');
+            return 'wss://deallens-backend-553067044467.us-central1.run.app/ws/audio';
         }
     }
 

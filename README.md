@@ -42,13 +42,11 @@ Planned enhancements include **camera-based product recognition**.
 **Category:** Live Agents with multimodal Voice + Visual output
 
 ### Architecture Overview
-```
-User Voice → Frontend (JS) → WebSocket → Backend (Python) → Gemini Live API
-                ↓                           ↓
-           Audio Processing            Deal Search Tools
-                ↓                           ↓
-        Visual Deal Cards  ←  Voice Response + Deal Data
-```
+
+![DealLens AI Architecture](documentation/Gemini%20Shopping%20Assitant.png)
+*Complete system architecture showing real-time voice processing, Gemini Live API integration, and deal search capabilities*
+
+
 
 **Recent Technical Achievements:**
 - 🎵 **Voice Breaking Eliminated**: Seamless audio scheduling prevents gaps between response chunks
@@ -61,7 +59,7 @@ User Voice → Frontend (JS) → WebSocket → Backend (Python) → Gemini Live 
 ## 🚀 **Try DealLens AI Now**
 
 ### **🌐 Live Demo (Cloud Deployment)**
-**Production Backend**: `<>`
+**Production Backend**: `https://deallens-backend-553067044467.us-central1.run.app`
 
 **Quick Start**:
 1. Open the frontend locally: [Download & serve frontend files](app/frontend/)
@@ -201,9 +199,5 @@ DealLens AI is developed by Nakul Bageja to explore practical applications of co
 
 # LEFT TO DO
 
-- [ ] Architecture.md
-- [ ] Improved Examples in deals.json
+- [ ] PPT 
 - [ ] Demo Video
-
-Eg:
-https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/multimodal-live-api/project-livewire/assets/architecture.png

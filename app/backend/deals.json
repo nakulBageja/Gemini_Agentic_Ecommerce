@@ -108,6 +108,325 @@
                     "url": "https://carphonewarehouse.com"
                 }
             ]
+        },
+        {
+            "id": "sony-wh1000xm5",
+            "name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+            "keywords": [
+                "sony",
+                "headphones",
+                "wireless",
+                "bluetooth",
+                "noise cancelling",
+                "over-ear"
+            ],
+            "deals": [
+                {
+                    "store": "Amazon UK",
+                    "price": 279.99,
+                    "url": "https://amazon.co.uk"
+                },
+                {
+                    "store": "Currys",
+                    "price": 299.99,
+                    "url": "https://currys.co.uk"
+                },
+                {
+                    "store": "John Lewis",
+                    "price": 289.99,
+                    "url": "https://johnlewis.com"
+                }
+            ]
+        },
+        {
+            "id": "bose-qc45",
+            "name": "Bose QuietComfort 45 Wireless Headphones",
+            "keywords": [
+                "bose",
+                "headphones",
+                "wireless",
+                "bluetooth",
+                "quiet comfort",
+                "noise cancelling"
+            ],
+            "deals": [
+                {
+                    "store": "Bose Store",
+                    "price": 329.00,
+                    "url": "https://bose.co.uk"
+                },
+                {
+                    "store": "Amazon UK",
+                    "price": 299.99,
+                    "url": "https://amazon.co.uk"
+                },
+                {
+                    "store": "Argos",
+                    "price": 319.99,
+                    "url": "https://argos.co.uk"
+                }
+            ]
+        },
+        {
+            "id": "audio-technica-ath-m50x",
+            "name": "Audio-Technica ATH-M50x Professional Studio Monitor Headphones",
+            "keywords": [
+                "audio technica",
+                "headphones",
+                "wired",
+                "studio",
+                "monitor",
+                "professional"
+            ],
+            "deals": [
+                {
+                    "store": "Amazon UK",
+                    "price": 129.99,
+                    "url": "https://amazon.co.uk"
+                },
+                {
+                    "store": "Gear4Music",
+                    "price": 139.99,
+                    "url": "https://gear4music.com"
+                },
+                {
+                    "store": "PMT Music",
+                    "price": 134.99,
+                    "url": "https://pmtonline.co.uk"
+                }
+            ]
+        },
+        {
+            "id": "sennheiser-hd600",
+            "name": "Sennheiser HD 600 Open-Back Dynamic Headphones",
+            "keywords": [
+                "sennheiser",
+                "headphones",
+                "wired",
+                "open back",
+                "audiophile",
+                "dynamic"
+            ],
+            "deals": [
+                {
+                    "store": "Amazon UK",
+                    "price": 329.99,
+                    "url": "https://amazon.co.uk"
+                },
+                {
+                    "store": "Richer Sounds",
+                    "price": 349.99,
+                    "url": "https://richersounds.com"
+                },
+                {
+                    "store": "Currys",
+                    "price": 339.99,
+                    "url": "https://currys.co.uk"
+                }
+            ]
+        },
+        {
+            "id": "steelseries-arctis-7p",
+            "name": "SteelSeries Arctis 7P Wireless Gaming Headset",
+            "keywords": [
+                "steelseries",
+                "headphones",
+                "headset",
+                "wireless",
+                "gaming",
+                "arctis"
+            ],
+            "deals": [
+                {
+                    "store": "Game",
+                    "price": 149.99,
+                    "url": "https://game.co.uk"
+                },
+                {
+                    "store": "Amazon UK",
+                    "price": 139.99,
+                    "url": "https://amazon.co.uk"
+                },
+                {
+                    "store": "Scan",
+                    "price": 144.99,
+                    "url": "https://scan.co.uk"
+                }
+            ]
+        },
+        {
+            "id": "hyperx-cloud-ii",
+            "name": "HyperX Cloud II Gaming Headset",
+            "keywords": [
+                "hyperx",
+                "headphones",
+                "headset",
+                "wired",
+                "gaming",
+                "cloud"
+            ],
+            "deals": [
+                {
+                    "store": "Amazon UK",
+                    "price": 79.99,
+                    "url": "https://amazon.co.uk"
+                },
+                {
+                    "store": "Currys",
+                    "price": 89.99,
+                    "url": "https://currys.co.uk"
+                },
+                {
+                    "store": "Game",
+                    "price": 84.99,
+                    "url": "https://game.co.uk"
+                }
+            ]
+        },
+        {
+            "id": "beats-studio3",
+            "name": "Beats Studio3 Wireless Over-Ear Headphones",
+            "keywords": [
+                "beats",
+                "headphones",
+                "wireless",
+                "bluetooth",
+                "studio",
+                "over-ear"
+            ],
+            "deals": [
+                {
+                    "store": "Apple Store",
+                    "price": 299.99,
+                    "url": "https://apple.com"
+                },
+                {
+                    "store": "Amazon UK",
+                    "price": 249.99,
+                    "url": "https://amazon.co.uk"
+                },
+                {
+                    "store": "Argos",
+                    "price": 269.99,
+                    "url": "https://argos.co.uk"
+                }
+            ]
+        },
+        {
+            "id": "jabra-elite-85h",
+            "name": "Jabra Elite 85h Wireless Noise Cancelling Headphones",
+            "keywords": [
+                "jabra",
+                "headphones",
+                "wireless",
+                "bluetooth",
+                "elite",
+                "noise cancelling"
+            ],
+            "deals": [
+                {
+                    "store": "Amazon UK",
+                    "price": 199.99,
+                    "url": "https://amazon.co.uk"
+                },
+                {
+                    "store": "John Lewis",
+                    "price": 219.99,
+                    "url": "https://johnlewis.com"
+                },
+                {
+                    "store": "Currys",
+                    "price": 209.99,
+                    "url": "https://currys.co.uk"
+                }
+            ]
+        },
+        {
+            "id": "shure-se215",
+            "name": "Shure SE215 Professional In-Ear Monitors",
+            "keywords": [
+                "shure",
+                "headphones",
+                "earphones",
+                "wired",
+                "in-ear",
+                "professional"
+            ],
+            "deals": [
+                {
+                    "store": "Amazon UK",
+                    "price": 89.99,
+                    "url": "https://amazon.co.uk"
+                },
+                {
+                    "store": "Gear4Music",
+                    "price": 99.99,
+                    "url": "https://gear4music.com"
+                },
+                {
+                    "store": "PMT Music",
+                    "price": 94.99,
+                    "url": "https://pmtonline.co.uk"
+                }
+            ]
+        },
+        {
+            "id": "samsung-galaxy-buds-pro",
+            "name": "Samsung Galaxy Buds Pro Wireless Earbuds",
+            "keywords": [
+                "samsung",
+                "galaxy buds",
+                "earbuds",
+                "wireless",
+                "bluetooth",
+                "pro"
+            ],
+            "deals": [
+                {
+                    "store": "Samsung Store",
+                    "price": 199.99,
+                    "url": "https://samsung.com"
+                },
+                {
+                    "store": "Amazon UK",
+                    "price": 179.99,
+                    "url": "https://amazon.co.uk"
+                },
+                {
+                    "store": "Currys",
+                    "price": 189.99,
+                    "url": "https://currys.co.uk"
+                }
+            ]
+        },
+        {
+            "id": "beyerdynamic-dt770",
+            "name": "Beyerdynamic DT 770 Pro Studio Headphones",
+            "keywords": [
+                "beyerdynamic",
+                "headphones",
+                "wired",
+                "studio",
+                "professional",
+                "closed back"
+            ],
+            "deals": [
+                {
+                    "store": "Amazon UK",
+                    "price": 139.99,
+                    "url": "https://amazon.co.uk"
+                },
+                {
+                    "store": "Thomann",
+                    "price": 149.99,
+                    "url": "https://thomann.de"
+                },
+                {
+                    "store": "Gear4Music",
+                    "price": 144.99,
+                    "url": "https://gear4music.com"
+                }
+            ]
         }
     ]
 }

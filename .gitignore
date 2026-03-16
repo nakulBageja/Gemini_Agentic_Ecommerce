@@ -211,3 +211,4 @@ __marimo__/
 # Project's file
 
 ./app/backend/.env
+./app/.DS_Store
